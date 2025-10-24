@@ -131,11 +131,6 @@ We sincerely thank the **Department of Computer Engineering**, **Faculty of Engi
 
 ---
 
-## License
-This project is distributed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 For further inquiries or collaboration:
 
