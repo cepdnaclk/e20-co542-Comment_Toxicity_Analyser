@@ -137,3 +137,7 @@ For further inquiries or collaboration:
 **Dilshan D.M.T.**  
 Email: dmt.dilshan@example.com  
 GitHub: [github.com/tharakadilshandmt](https://github.com/tharakadilshandmt)
+
+**Karunarathne K.N.P.**  
+Email: e20189@eng.pdn.ac.lk
+GitHub: [github.com/KasunikaKarunarathne](https://github.com/KasunikaKarunarathne)
