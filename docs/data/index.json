@@ -1,6 +1,5 @@
 {
-   "title": "Comment Toxicity Analyser",
-   "team": [
+  "team": [
     {
       "name": "Dilshan D.M.T.",
       "email": "e20069@eng.pdn.ac.lk",
@@ -22,5 +21,5 @@
       "eNumber": "E/20/189"
     }
   ],
-    "tags": ["Neural Networks", "Fuzzy Systems"]
+  "tags": ["Neural Networks", "Fuzzy Systems"]
 }
