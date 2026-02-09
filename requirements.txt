@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow
+numpy
+pydantic
+pytest
+httpx
+
