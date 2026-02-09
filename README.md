@@ -43,12 +43,29 @@ This project explores how **Transformer-based neural networks** can effectively 
 | Deep Learning Framework | TensorFlow / Keras |
 | NLP Models | BERT / RoBERTa |
 | Dataset | Jigsaw Toxic Comment Dataset |
-| MLOps Tools | MLflow (for experiment tracking and versioning) |
+| MLOps Tools | MLflow (experiment tracking), Weights & Biases (training monitoring) |
+| API Framework | FastAPI |
+| Containerization | Docker |
+| CI/CD | GitHub Actions |
+| Artifact Registry | Docker Hub |
+
 
 The project integrates **MLflow** to track experiments, manage model versions, and support reproducible research. The implementation emphasizes clarity, modular design, and adaptability for future enhancements.
 
 ---
+## Deployment and CI/CD
 
+The trained model was deployed as a RESTful API using FastAPI. The service was containerized with Docker to ensure reproducible builds and consistent runtime environments.
+
+A CI/CD pipeline was implemented using GitHub Actions to:
+
+- Run automated API tests (pytest) on every push  
+- Build the Docker image  
+- Publish the image to Docker Hub after successful CI  
+
+This enables continuous integration and delivery of a production-ready inference service.
+
+---
 ## Repository Structure
 
 ```
